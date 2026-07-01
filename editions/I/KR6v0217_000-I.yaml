@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0217/i/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 張乾度七十人等造像記
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0018.xml
+    old_id: I01n0018
+hash: sha256:0d7101dca77cef74aae7d9188fee6984b54a77a6e6fada9557b2efe9c9570938

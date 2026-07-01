@@ -1,0 +1,82 @@
+canonical_identifier: bkk:krp/KR6v0217/v1
+canonical_location: https://kanripo.org/bkk/KR6v0217/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 張乾度七十人等造像記
+  identifiers:
+    alt_id:
+    - I01n0018
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0018.xml
+    old_id: I01n0018
+  edition:
+    short: bkk
+editions:
+- short: 佛拓
+  label: 佛拓
+  source_xml_id: wit.orig
+- short: I
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0217_000.yaml, hash: 'sha256:0d7101dca77cef74aae7d9188fee6984b54a77a6e6fada9557b2efe9c9570938'}
+  - {seq: 1, filename: KR6v0217_001.yaml, hash: 'sha256:9f312456d077027012e4b130826237defccc073c37139abca59bde5f64aeb808'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0217_001.markers.yaml, hash: 'sha256:f97a61f5846140a6a59b0c1dafad03fb29edc2237255d83344f33939b4026a17'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0217_I_001-juan-start
+    span:
+    - body
+    - 0
+    - 609
+  label: 張乾度七十人等造像記
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0217_I_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0217_I_001-mulu-2
+    span:
+    - body
+    - 122
+    - 122
+  label: 之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0217_I_001-mulu-3
+    span:
+    - body
+    - 297
+    - 297
+  label: 之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0217_I_001-mulu-4
+    span:
+    - body
+    - 378
+    - 378
+  label: 之四
+  type: mulu
+  level: 1
+hash: sha256:37f5fc02be04c524e9b800b86b958525395d3a4910deb6f2ba26dceb1f8f41d7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
